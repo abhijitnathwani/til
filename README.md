@@ -4,6 +4,6 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 
 Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 
-<!-- count starts --><!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
+<!-- count starts -->1<!-- count ends --> TILs so far. <a href="https://til.simonwillison.net/til/feed.atom">Atom feed here</a>.
 
 <!-- index starts -->
