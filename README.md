@@ -20,6 +20,5 @@ Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 
 ## bash
 
-* [Replace `
-` character with actual newline](https://github.com/abhijitnathwani/til/blob/master/bash/replace-newline-character-with-actual.md) - 2020-06-02
+* [Replace `\n` character with actual newline](https://github.com/abhijitnathwani/til/blob/master/bash/replace-newline-character-with-actual.md) - 2020-06-02
 <!-- index ends -->
