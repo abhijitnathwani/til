@@ -1,4 +1,4 @@
-# Replace `\n` character with actual newline
+# Replace `\\n` character with actual newline
 
 `sed -i 's/\\n/\n/g' input_filename`
 
