@@ -4,7 +4,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 
 Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 
-<!-- count starts -->6<!-- count ends --> TILs so far.
+<!-- count starts -->7<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## ffmpeg
@@ -21,4 +21,8 @@ Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 ## bash
 
 * [Replace `\n` character with actual newline](https://github.com/abhijitnathwani/til/blob/master/bash/replace-newline-character-with-actual.md) - 2020-06-02
+
+## vim
+
+* [Replace whitespaces with visible character](https://github.com/abhijitnathwani/til/blob/master/vim/replace-whitespace-with-character.md) - 2021-04-12
 <!-- index ends -->
