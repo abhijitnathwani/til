@@ -4,6 +4,7 @@ Helpful when identation errors for incosistent tabs and spaces keep popping up i
 
 
 `:set listchars=eol:$,tab:>·,trail:~,extends:>,precedes:<,space:*`
+
 `:set list`
 
 Code sample:
