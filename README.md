@@ -15,8 +15,8 @@ Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 ## git
 
 * [Show changed files in commit](https://github.com/abhijitnathwani/til/blob/master/git/show-changed-files-in-commit.md) - 2020-05-29
-* [Merge branch to master in Git](https://github.com/abhijitnathwani/til/blob/master/git/merge-git-branch-master.md) - 2020-06-02
 * [Rebase local branch with remote master](https://github.com/abhijitnathwani/til/blob/master/git/rebase-local-branch-with-remote-master.md) - 2020-06-02
+* [Merge branch to master in Git](https://github.com/abhijitnathwani/til/blob/master/git/merge-git-branch-master.md) - 2020-06-02
 
 ## bash
 
