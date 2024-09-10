@@ -4,7 +4,7 @@ My Today I Learned snippets. Inspired by [jbranchaud/til](https://github.com/jbr
 
 Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 
-<!-- count starts -->7<!-- count ends --> TILs so far.
+<!-- count starts -->8<!-- count ends --> TILs so far.
 
 <!-- index starts -->
 ## ffmpeg
@@ -15,8 +15,8 @@ Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 ## git
 
 * [Show changed files in commit](https://github.com/abhijitnathwani/til/blob/master/git/show-changed-files-in-commit.md) - 2020-05-29
-* [Rebase local branch with remote master](https://github.com/abhijitnathwani/til/blob/master/git/rebase-local-branch-with-remote-master.md) - 2020-06-02
 * [Merge branch to master in Git](https://github.com/abhijitnathwani/til/blob/master/git/merge-git-branch-master.md) - 2020-06-02
+* [Rebase local branch with remote master](https://github.com/abhijitnathwani/til/blob/master/git/rebase-local-branch-with-remote-master.md) - 2020-06-02
 
 ## bash
 
@@ -25,4 +25,8 @@ Self updating Readme inspired by [simonw](https://github.com/simonw/til)
 ## vim
 
 * [Replace whitespaces with visible character](https://github.com/abhijitnathwani/til/blob/master/vim/replace-whitespace-with-character.md) - 2021-04-12
+
+## ssh
+
+* [Passwordless SSH to server](https://github.com/abhijitnathwani/til/blob/master/ssh/passwordless-ssh.md) - 2024-09-10
 <!-- index ends -->
